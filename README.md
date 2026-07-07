@@ -109,6 +109,7 @@ category profit.
 
 ## 📁 Repository Structure
 
+```
 Product-Sales-Analysis
 │
 ├── 1_Data
@@ -125,8 +126,7 @@ Product-Sales-Analysis
 │   └── Dashboard.png
 │
 └── README.md
-
----
+```
 
 ## 💼 Skills Demonstrated
 
