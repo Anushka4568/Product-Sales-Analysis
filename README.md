@@ -88,9 +88,15 @@ category profit.
 
 ---
 
-## 📷 Dashboard Preview
+## 🗂️ Data Preview
+![Excel](4_Images/01_Excel.png)
 
-![Dashboard](4_Images/Dashboard.png)
+## 🔍 SQL Query Preview
+![SQL](4_Images/02_SQL.png)
+
+## 📷 Dashboard Preview
+![Dashboard](4_Images/03_Dashboard.png)
+
 
 ---
 
