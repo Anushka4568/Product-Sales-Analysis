@@ -155,8 +155,9 @@ Git & GitHub
 ## 👩‍💻 Author
 
 **Anushka Jaiswal**  
-LinkedIn: [](https://www.linkedin.com/in/anushhhhkkkaaaa/)
+GitHub: [Anushka4568](https://github.com/Anushka4568)
 
+LinkedIn: [Anushka Jaiswal](https://www.linkedin.com/in/anushka-jaiswal-hansraj)
 ---
 
 ⭐ If you found this project helpful, feel free to star 
