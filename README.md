@@ -82,8 +82,8 @@ performance.
 (13.99%)**, making it the strongest performing category across 
 all dimensions.
 
-- **Phones was the most profitable sub-category**, followed closely 
-by Copiers, together driving the majority of Technology's 
+- **Copiers was the most profitable sub-category**, followed closely 
+by Phones, together driving the majority of Technology's 
 category profit.
 
 ---
