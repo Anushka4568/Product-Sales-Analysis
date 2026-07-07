@@ -156,8 +156,7 @@ Git & GitHub
 
 **Anushka Jaiswal**  
 GitHub: [Anushka4568](https://github.com/Anushka4568)
-
-LinkedIn: [Anushka Jaiswal](https://www.linkedin.com/in/anushka-jaiswal-hansraj)
+LinkedIn: [Anushka Jaiswal](https://www.linkedin.com/in/anushhhhkkkaaaa/)
 ---
 
 ⭐ If you found this project helpful, feel free to star 
