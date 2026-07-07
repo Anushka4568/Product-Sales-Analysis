@@ -130,9 +130,25 @@ Product-Sales-Analysis
 
 ## 💼 Skills Demonstrated
 
-Data Cleaning · SQL Query Writing · Business Analysis · 
-Profitability Analysis · KPI Reporting · Data Visualisation · 
-Dashboard Design · Data Storytelling · Git & GitHub
+Data Cleaning
+
+SQL
+
+Business Analysis
+
+Data Visualization
+
+Power BI
+
+Dashboard Design
+
+KPI Reporting
+
+Profitability Analysis
+
+Data Storytelling
+
+Git & GitHub
 
 ---
 
